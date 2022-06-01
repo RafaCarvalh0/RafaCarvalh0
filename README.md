@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/RafaCarvalh0">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dracula"/>
     
 </div>
   
