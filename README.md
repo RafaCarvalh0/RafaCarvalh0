@@ -28,6 +28,9 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
   <div style="float: left;">
     <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/> Bootstrap
   </div>
+   <div style="float: left;">
+    <img src="https://img.icons8.com/color/24/000000/mysql.png"/> MySQL
+  </div>
 </div>
 
 <div style="clear: both;"></div>
