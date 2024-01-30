@@ -52,7 +52,7 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
 ## Educação
 
 - Estudei durante 13 anos e me formei no Colégio Equipe (PE)
-- Atualmente sou estudante do quinto período de Ciência da Computação na Cesar School
+- Atualmente sou estudante de Ciência da Computação na Cesar School
 
 ## Projetos Destacados
 
