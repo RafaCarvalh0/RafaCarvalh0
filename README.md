@@ -7,35 +7,42 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
 ## Habilidades
 
 <div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/><br>Python
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>Java
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/><br>HTML
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/><br>CSS
+</div>
+
+<div style="clear: both;"></div>
+
+<div>
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>JavaScript
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>Node.js
+</div>
+
+<div style="clear: both;"></div>
+
+<div>
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/><br>TypeScript
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/mysql.png"/><br>MySQL
-  </div>
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><br>C
+  <div style="float: left; margin-right: 40px;">
+    <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
   </div>
 </div>
 
