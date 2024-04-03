@@ -8,6 +8,7 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -16,7 +17,6 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 </div>
 
 <div style="clear: both;"></div>
