@@ -11,9 +11,6 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
     <img src="https://img.icons8.com/color/24/000000/python.png"/> Python
   </div>
   <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/c-programming.png"/> C
-  </div>
-  <div style="float: left;">
     <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> Java
   </div>
   <div style="float: left;">
@@ -28,17 +25,21 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
   <div style="float: left;">
     <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/> Bootstrap
   </div>
-   <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/mysql.png"/> MySQL
+  <div style="float: left;">
+    <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> Node.js
+  </div>
+  <div style="float: left;">
+    <img src="https://img.icons8.com/color/24/000000/typescript.png"/> TypeScript
+  </div>
+  <div style="float: left;">
+    <img src="https://img.icons8.com/color/24/000000/sqlite.png"/> SQLite
+  </div>
+  <div style="float: left;">
+    <img src="https://img.icons8.com/color/24/000000/c-programming.png"/> C
   </div>
 </div>
 
 <div style="clear: both;"></div>
-
-</div>
-
-<div style="clear: both;"></div>
-
 
 ## Estatísticas
 
