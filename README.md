@@ -7,42 +7,41 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
 ## Habilidades
 
 <div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/python.png"/> Python
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png"/><br>Python
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> Java
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>Java
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/html-5.png"/> HTML
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/><br>HTML
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/css3.png"/> CSS
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/><br>CSS
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/javascript.png"/> JavaScript
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>JavaScript
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/> Bootstrap
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> Node.js
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>Node.js
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/typescript.png"/> TypeScript
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/><br>TypeScript
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/sqlite.png"/> SQLite
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/mysql.png"/><br>MySQL
   </div>
-  <div style="float: left;">
-    <img src="https://img.icons8.com/color/24/000000/c-programming.png"/> C
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><br>C
   </div>
 </div>
 
 <div style="clear: both;"></div>
 
 ## Estatísticas
-
 
 <div align="center">
   <a href="https://github.com/RafaCarvalh0">
