@@ -25,8 +25,9 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
 
 <div align="center">
   <a href="https://github.com/RafaCarvalh0">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=darkmode"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dark"/>
+    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=dark&layout=compact"/>
+    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dark"/>
+  </a>
 </div>
 
 ## Educação
