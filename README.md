@@ -7,36 +7,19 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
 ## Habilidades
 
 <div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-  </div>
-  <div style="display: inline-block; margin-right: 40px;">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  </div>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</div>
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 </div>
 
 <div style="clear: both;"></div>
