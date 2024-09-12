@@ -14,7 +14,7 @@ Olá! Meu nome é Rafael, sou dedicado a aprender novas tecnologias e sempre bus
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/reactjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
