@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor Full Stack graduado em Ciência da Computação, com experiência na criação de soluções utilizando **PHP (Laravel)**, **Python**, e o ecossistema **JavaScript** (**React**, **Node.js**, **TypeScript**).  
+Desenvolvedor Full Stack graduado em Ciência da Computação, com experiência na criação de soluções utilizando **PHP (Laravel)**, **Python** e o ecossistema **JavaScript** (**React**, **Node.js**, **TypeScript**).  
 Minhas competências incluem **análise de dados** e a **otimização de bancos de dados com triggers**.  
 Sou proativo, colaborativo e dedicado a encontrar soluções eficientes para problemas complexos, sempre com foco nas metas dos projetos.
 
@@ -33,13 +33,16 @@ Sou proativo, colaborativo e dedicado a encontrar soluções eficientes para pro
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=dark&layout=compact&show_icons=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dark&layout=compact" alt="Linguagens mais usadas"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=dark&layout=compact&show_icons=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dark&layout=compact" alt="Linguagens mais usadas"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
