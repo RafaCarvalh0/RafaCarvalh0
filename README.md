@@ -10,29 +10,36 @@ Sou proativo, colaborativo e dedicado a encontrar soluções eficientes para pro
 
 ## 🚀 Habilidades
 
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/> 
-<img src="https://img.icons8.com/officel/48/000000/laravel.png" alt="Laravel"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> 
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> 
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> 
-<img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce"/> 
-<img src="https://img.icons8.com/color/48/000000/google-analytics.png" alt="Google Analytics"/> 
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/ios-filled/50/fa314a/laravel.png" alt="Laravel"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce"/>
+  <img src="https://img.icons8.com/color/48/000000/google-analytics.png" alt="Google Analytics"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=dark&layout=compact&hide=none&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/RafaCarvalh0)  
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dark&layout=compact)](https://github.com/RafaCarvalh0)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&theme=dark&layout=compact&show_icons=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&theme=dark&layout=compact" alt="Linguagens mais usadas"/>
+</p>
 
 ---
 
