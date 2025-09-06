@@ -122,7 +122,6 @@ Se você deseja entrar em contato comigo, sinta-se à vontade para me enviar uma
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:rafacarvalho@gmail.com)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/_rafacarvalho__/)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rafael-carvalho-2bb985219/)
-[![Spotify](https://img.icons8.com/color/48/000000/spotify.png)](https://open.spotify.com/user/rafael.ac2013)
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/+5581999454800)
 
 Fique à vontade para explorar meus repositórios e contribuições.  
