@@ -52,12 +52,13 @@ Análise de dados climáticos e estratégias de interpolação espacial para ava
 
 `Python` `Machine Learning` `Pandas` `NumPy` `Scikit-learn`
 
-## Estatísticas
+## Minhas contribuições
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaCarvalh0&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael Carvalho" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarvalh0&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Rafael Carvalho" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo as contribuições de Rafael Carvalho no GitHub" src="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
