@@ -55,9 +55,9 @@ Análise de dados climáticos e estratégias de interpolação espacial para ava
 ## Minhas contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação da cobrinha percorrendo as contribuições de Rafael Carvalho no GitHub" src="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake-dark.svg?v=4e075622" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake.svg?v=4e075622" />
+  <img alt="Animação da cobrinha percorrendo as contribuições de Rafael Carvalho no GitHub" src="https://raw.githubusercontent.com/RafaCarvalh0/RafaCarvalh0/output/github-contribution-grid-snake.svg?v=4e075622" />
 </picture>
 
 ---
